@@ -1,0 +1,23 @@
+h1 {
+    color: mediumseagreen;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .5);
+    margin: 0;
+    padding: 50px;
+}
+
+p {
+    color: green;
+}
+
+p strong {
+    color: blue;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: coral;
+}
